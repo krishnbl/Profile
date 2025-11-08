@@ -56,7 +56,3 @@ I enjoy turning raw data into clear, actionable business insights and visuals.
 ### 🏅 Certifications  
 - Power BI Certification for Data Analysis — ExcelR  
 - Data Visualization for Business — Forage  
-
----
-
-<p align="center">✨ “Transforming data into insights — one dashboard at a time.” ✨</p>
