@@ -2,7 +2,7 @@
 
 <!-- 🔥 Minimal Professional GitHub Profile for Krishna Bhul -->
 
-<h1 align="center">👋 Hi, I'm Krishna Bhul</h1>
+<h1 align="center">👋 Hi, I'm Krishna</h1>
 <h3 align="center">Data Analyst | Power BI | SQL & Python Enthusiast</h3>
 
 <p align="center">
